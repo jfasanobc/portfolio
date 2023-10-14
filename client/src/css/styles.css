@@ -7,6 +7,10 @@
   outline: none;
 }
 
+article {
+  font-size: 99%;
+}
+
 body {
   font-size: 100%;
   /* Set the font size 1em = ~16px */
